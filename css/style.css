@@ -389,8 +389,8 @@ p {
 }
 
 .polaroid {
-  width: 240x;
-  height: 400px;
+  width: 100%;
+  height: 100%;
   position: absolute;
   float: left;
   background: #1e1c18;
