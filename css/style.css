@@ -72,7 +72,7 @@ body {
   line-height: 1.4;
 font-family: 'Roboto';
   color: #331717;
-  font-style: italic;
+  font-style: normal;
 }
 
 p {
@@ -86,7 +86,7 @@ p:first-child {
 p.signed {
   margin-top: 1.5em;
   text-align: center;
-font-family: 'Indie Flower', cursive;
+font-family: 'notosanskr', cursive;
   font-size: 1.5em;
 }
 
@@ -133,7 +133,7 @@ font-family: 'Indie Flower', cursive;
   background: #F44;
   color: #FFF;
   font-family: 'Roboto', cursive;
-  font-style: italic;
+  font-style: normal;
   font-weight: bold;
   font-size: 1.5em;
   padding: .5em;
@@ -338,7 +338,7 @@ font-family: 'Roboto', cursive;
   color: #8b6a60;
   font-family: 'Roboto', cursive;
   font-weight: 300;
-  font-style: italic;
+  font-style: normal;
   text-align: center;
 }
 .text h1 {
