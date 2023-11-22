@@ -389,7 +389,7 @@ p {
 }
 
 .polaroid {
-  background-repeat: repeat;
+  background-repeat: 100%;
   position: absolute;
   float: left;
   background: #1e1c18;
