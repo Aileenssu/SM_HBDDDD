@@ -417,6 +417,8 @@ p {
           animation: fade-in 20s ease-in;
   -webkit-animation-iteration-count: 1;
           animation-iteration-count: 1;
+  background: #E5E5E5;
+  background-image: url("SM.png");
 }
 
 @-webkit-keyframes fade-in {
