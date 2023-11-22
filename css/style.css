@@ -421,7 +421,7 @@ p {
   -webkit-animation-iteration-count: 1;
           animation-iteration-count: 1;
   background: #E5E5E5;
-  background-image: url("SM.png");
+  background-image: url("../SM_HBDDDD/SM.png");
 }
 
 @-webkit-keyframes fade-in {
