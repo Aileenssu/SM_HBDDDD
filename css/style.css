@@ -290,6 +290,15 @@ font-family: 'Roboto', cursive;
 
 /* ============================================== Animation Fire
 */
+
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+
 @-webkit-keyframes fuego {
   0%, 100% {
     background: rgba(254, 248, 97, 0.5);
